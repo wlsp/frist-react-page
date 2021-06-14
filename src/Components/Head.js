@@ -10,19 +10,19 @@ const Head = () => {
         <div id="facts">
             <ul>
                 <li>
-                    127 <br/>
+                    127 <br />
                     <span>Award Received</span>
                 </li>
                 <li className="border">
-                    1505 <br/>
+                    1505 <br />
                     <span>Cups of Coffee</span>
                 </li>
                 <li className="border">
-                    109 <br/>
+                    109 <br />
                     <span>Projects Completed</span>
                 </li>
                 <li className="border">
-                    102 <br/>
+                    102 <br />
                     <span>Happy Clients</span>
                 </li>
             </ul>

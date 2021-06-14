@@ -5,7 +5,7 @@
   padding: 0;
 }
 
-#header > h1, #header > p, #hero h1, #hero > ul > li, #grid-wrapper ,#grid-template {
+#header > h1, #header > p, #hero h1, #hero > ul > li, #grid-wrapper ,#grid-template, footer > .line  {
   margin: 0 auto;
 }
 
@@ -110,6 +110,7 @@
   width: 90%;
   background-color: white;
   padding: 0 2%;
+  padding-bottom: 2%;
 }
 
 figure {
@@ -136,4 +137,21 @@ figcaption {
   color:darkturquoise;
   font-size: 1.2rem;
   font-weight: bold;
+}
+
+footer {
+  height: 20vh;
+  display: flex;
+  flex-direction: column;
+  background-color: green;
+  color: #fff;
+  justify-content: center;
+  align-items: center;
+}
+
+footer > .line {
+  margin-bottom: 2%;
+  width: 400px;
+  height: 47px;
+  border-bottom: 1px solid #fff;
 }
