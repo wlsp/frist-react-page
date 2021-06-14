@@ -109,12 +109,14 @@ figcaption {
 }
 .food {
   font-size: 1.2rem;
+  line-height: 5rem;
   font-weight: bold;
   color:dodgerblue;
 }
 .price {
   color:darkturquoise;
   font-size: 1.2rem;
+  line-height: 5rem;
   font-weight: bold;
 }
 footer {
@@ -131,7 +133,4 @@ footer > .line {
   width: 400px;
   height: 47px;
   border-bottom: 1px solid #fff;
-}
-a {
-  color: #fff;
 }

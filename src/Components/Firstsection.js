@@ -38,7 +38,7 @@ const Firstsection = () => {
           <p>
             <span className="food">Fusce dictum finibus</span><br />
             Lorem impsum dolor sit amet, consectetuer adipiscing elit. Aenean<br />
-            <span className="price">$45/ $55</span>
+            <span className="price">$45 / $55</span>
           </p>
         </figcaption>
       </div>
@@ -50,7 +50,7 @@ const Firstsection = () => {
           <p>
             <span className="food">Aliquam sagittis</span><br />
             Lorem impsum dolor sit amet, consectetuer adipiscing elit. Aenean<br />
-            <span className="price">$45/ $55</span>
+            <span className="price">$65 / $70</span>
           </p>
         </figcaption>
       </div>
@@ -62,7 +62,7 @@ const Firstsection = () => {
           <p>
             <span className="food">Sed varius turpis</span><br />
             Lorem impsum dolor sit amet, consectetuer adipiscing elit. Aenean<br />
-            <span className="price">$45/ $55</span>
+            <span className="price">$30.50</span>
           </p>
         </figcaption>
       </div>
@@ -74,7 +74,7 @@ const Firstsection = () => {
           <p>
             <span className="food">Aliquam sagittis</span><br />
             Lorem impsum dolor sit amet, consectetuer adipiscing elit. Aenean<br />
-            <span className="price">$45/ $55</span>
+            <span className="price">$25.50</span>
           </p>
         </figcaption>
       </div>
@@ -86,7 +86,7 @@ const Firstsection = () => {
           <p>
             <span className="food">Maecenas eget justo</span><br />
             Lorem impsum dolor sit amet, consectetuer adipiscing elit. Aenean<br />
-            <span className="price">$45/ $55</span>
+            <span className="price">$25.50</span>
           </p>
         </figcaption>
       </div>
@@ -98,7 +98,7 @@ const Firstsection = () => {
           <p>
             <span className="food">Quisque et felis eros</span><br />
             Lorem impsum dolor sit amet, consectetuer adipiscing elit. Aenean<br />
-            <span className="price">$45/ $55</span>
+            <span className="price">$25.50</span>
           </p>
         </figcaption>
       </div>
@@ -110,7 +110,7 @@ const Firstsection = () => {
           <p>
             <span className="food">sed ultricies dui</span><br />
             Lorem impsum dolor sit amet, consectetuer adipiscing elit. Aenean<br />
-            <span className="price">$45/ $55</span>
+            <span className="price">$25.50</span>
           </p>
         </figcaption>
       </div>
@@ -122,7 +122,7 @@ const Firstsection = () => {
           <p>
             <span className="food">Donec porta consequat</span><br />
             Lorem impsum dolor sit amet, consectetuer adipiscing elit. Aenean<br />
-            <span className="price">$45/ $55</span>
+            <span className="price">$25.50</span>
           </p>
         </figcaption>
       </div>
